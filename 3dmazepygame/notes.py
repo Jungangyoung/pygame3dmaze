@@ -1,3 +1,6 @@
+#30.10
+#Added depth shading yeah!
+
 #18.10
 #Suddenly i can see through the wall?
 
